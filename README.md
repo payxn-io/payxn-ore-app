@@ -1,4 +1,4 @@
-# ORE app
+# Payxn ORE app
 
 Web app for ORE cryptocurrency mining.
 
